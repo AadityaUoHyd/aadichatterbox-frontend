@@ -4,7 +4,7 @@ export const environment = {
     realm: "aadichatterbox",
     clientId: "aadichatterbox"
   },
-  API_URL: "http://localhost:4200/api",
-  FRONTEND_URL: "http://localhost:4200/",
+  API_URL: "https://aadichatterbox.netlify.app/api",
+  FRONTEND_URL: "https://aadichatterbox.netlify.app//",
 
 };
