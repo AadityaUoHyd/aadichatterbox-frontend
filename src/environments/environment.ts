@@ -5,6 +5,6 @@ export const environment = {
     clientId: "aadichatterbox"
   },
   API_URL: "https://aadichatterbox.netlify.app/api",
-  FRONTEND_URL: "https://aadichatterbox.netlify.app//",
+  FRONTEND_URL: "https://aadichatterbox.netlify.app/",
 
 };
