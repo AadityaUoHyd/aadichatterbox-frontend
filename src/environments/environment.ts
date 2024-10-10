@@ -1,6 +1,6 @@
 export const environment = {
   keycloak: {
-    url: "https://lemur-16.cloud-iam.com/auth",
+    url: "https://lemur-17.cloud-iam.com/auth",
     realm: "aadichatterbox-keycloak",
     clientId: "aadichatterbox"
   },
