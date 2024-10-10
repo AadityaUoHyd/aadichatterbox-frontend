@@ -59,7 +59,7 @@ export class NewConversationComponent implements OnInit, OnDestroy {
         if (usersState.status === "OK" && usersState.value) {
           this.usersResults = usersState.value;
         } else if (usersState.status === "ERROR") {
-          this.toastService.show("Error occured when fetching search result, please try again", "DANGER");
+          //this.toastService.show("Error occured when fetching search result, please try again", "DANGER");
         }
         this.loadingSearch = false;
       });

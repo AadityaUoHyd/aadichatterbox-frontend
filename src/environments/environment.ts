@@ -1,7 +1,7 @@
 export const environment = {
   keycloak: {
-    url: "http://localhost:9080",
-    realm: "aadichatterbox",
+    url: "https://lemur-16.cloud-iam.com/auth",
+    realm: "aadichatterbox-keycloak",
     clientId: "aadichatterbox"
   },
   API_URL: "https://aadichatterbox.netlify.app/api",
