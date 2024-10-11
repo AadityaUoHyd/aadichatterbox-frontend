@@ -1,6 +1,6 @@
 {
   "/api": {
     "target": "https://aadichatterbox-backend.onrender.com",
-    "secure": false
+    "secure": true
   }
 }
