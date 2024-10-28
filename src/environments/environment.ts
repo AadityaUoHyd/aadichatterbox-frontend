@@ -4,7 +4,7 @@ export const environment = {
     realm: "aadichatterbox-keycloak",
     clientId: "aadichatterbox"
   },
-  API_URL: "https://aadichatterbox.netlify.app/api",
+  API_URL: "https://aadichatterbox-backend.onrender.com",
   FRONTEND_URL: "https://aadichatterbox.netlify.app/",
 
 };
